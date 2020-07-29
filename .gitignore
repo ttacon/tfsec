@@ -5,3 +5,6 @@
 # ignore windows compiled binary
 tfsec.exe
 .vscode/launch.json
+
+# profiling files
+*.prof
